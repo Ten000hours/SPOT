@@ -12,7 +12,7 @@ Overview
 
 Build
 1. From the repo root:
-   - `cmake -S . -B build -DCMAKE_PREFIX_PATH=/cis/home/zwang/yuanzhong/SEAL/native/build/install`
+   - `cmake -S . -B build -DCMAKE_PREFIX_PATH=~/SEAL/native/build/install`
    - `cmake --build build -j`
 
 Minimal Demo (two terminals)
