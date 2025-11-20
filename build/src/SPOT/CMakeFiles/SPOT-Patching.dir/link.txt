@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libSPOT-Patching.a  CMakeFiles/SPOT-Patching.dir/patching.cpp.o
+/usr/bin/ranlib ../../lib/libSPOT-Patching.a

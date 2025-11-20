@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wall -march=native -maes -mrdseed -faligned-new -std=c++17 -w -O3  -rdynamic CMakeFiles/spot_plan.dir/test_spot_plan.cpp.o  -o ../bin/spot_plan  ../lib/libSPOT-Patching.a 

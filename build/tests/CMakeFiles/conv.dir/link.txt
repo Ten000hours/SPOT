@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -Wall -march=native -maes -mrdseed -faligned-new -std=c++17 -w -O3  -rdynamic CMakeFiles/conv.dir/test_conv.cpp.o  -o ../bin/conv  ../lib/libOCEAN-LinearHE.a -lssl -lcrypto -lgmp -lgomp -lpthread /cis/home/zwang/yuanzhong/SEAL/native/build/install/lib/libseal.a -pthread ../lib/libSPOT-Patching.a 

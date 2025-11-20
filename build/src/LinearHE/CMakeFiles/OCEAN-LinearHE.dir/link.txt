@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libOCEAN-LinearHE.a  CMakeFiles/OCEAN-LinearHE.dir/conv-field.cpp.o CMakeFiles/OCEAN-LinearHE.dir/utils-HE.cpp.o
+/usr/bin/ranlib ../../lib/libOCEAN-LinearHE.a

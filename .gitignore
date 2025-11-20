@@ -1,0 +1,17 @@
+tests/test_oceanpub.cpp
+build/bin/oceanpub
+build/lib/libOCEAN-LinearHE.*
+build/**/oceanpub*
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.log

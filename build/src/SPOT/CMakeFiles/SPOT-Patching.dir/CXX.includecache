@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/SPOT/patching.h
+vector
+-
+
+/cis/home/zwang/yuanzhong/SPOT/src/SPOT/patching.cpp
+SPOT/patching.h
+/cis/home/zwang/yuanzhong/SPOT/src/SPOT/SPOT/patching.h
+
