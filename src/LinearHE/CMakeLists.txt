@@ -32,7 +32,7 @@ if(DEFINED SEAL_DIR)
 endif()
 
 # Fallback: user-provided SEAL install include path
-target_include_directories(OCEAN-LinearHE PRIVATE /cis/home/zwang/yuanzhong/SEAL/native/build/install/include)
+target_include_directories(OCEAN-LinearHE PRIVATE ~/SEAL/native/build/install/include)
 
 
 
