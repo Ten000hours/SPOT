@@ -32,8 +32,7 @@ Notes
 - Adjust port `p` if needed; OT uses `p+1..` and per‑patch HE channels use `p+50..`
 - `ph/pw/ov` control patch size and overlap; `np` controls the number of patches processed
 
-Citation
-If you use SPOT in academic work, please cite:
+### If you use SPOT in academic work, please cite:
 
 Xu, X., Zhang, Q., Ning, R., Xin, C., & Wu, H. (2024). SPOT: Structure Patching and Overlap Tweaking for Effective Pipelining in Privacy-Preserving MLaaS with Tiny Clients. In ICDCS 2024.
 
